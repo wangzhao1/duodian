@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.40.168.235/duodian_IOS_V1.0.ipa</string>
+					<string>http://down.zjduodian.com/Duodian_New.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>多点</string>
+				<string>测试版</string>
 			</dict>
 		</dict>
 	</array>
